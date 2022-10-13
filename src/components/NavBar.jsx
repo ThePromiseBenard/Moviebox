@@ -1,6 +1,6 @@
 const NavBar = () => {
   return (
-    <div className="flex justify-between items-center z-[100] absolute w-full p-4">
+    <div className="flex justify-between items-center z-[100] absolute w-full p-4 md:p-8">
       <h1 className=" text-red-600 uppercase text-2xl  md:text-4xl font-bold cursor-pointer ">
         netflix
       </h1>
